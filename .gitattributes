@@ -1,0 +1,17 @@
+CI-global-design.png filter=lfs diff=lfs merge=lfs -text
+LogDNA.png filter=lfs diff=lfs merge=lfs -text
+Python[[:space:]]命名规则.png filter=lfs diff=lfs merge=lfs -text
+Python[[:space:]]命名规则2.png filter=lfs diff=lfs merge=lfs -text
+Python[[:space:]]异常规则.png filter=lfs diff=lfs merge=lfs -text
+Python[[:space:]]注释规则.png filter=lfs diff=lfs merge=lfs -text
+Python[[:space:]]空格规则.png filter=lfs diff=lfs merge=lfs -text
+Python[[:space:]]编程细节.png filter=lfs diff=lfs merge=lfs -text
+Python[[:space:]]编程细节2.png filter=lfs diff=lfs merge=lfs -text
+ci-worker-architecture.png filter=lfs diff=lfs merge=lfs -text
+configure_ci.png filter=lfs diff=lfs merge=lfs -text
+create_build_project.png filter=lfs diff=lfs merge=lfs -text
+epull.png filter=lfs diff=lfs merge=lfs -text
+multi-builds-per-commit.png filter=lfs diff=lfs merge=lfs -text
+python[[:space:]]导入规则.png filter=lfs diff=lfs merge=lfs -text
+python对其规则.png filter=lfs diff=lfs merge=lfs -text
+ssh-keygen-gcloud.png filter=lfs diff=lfs merge=lfs -text
